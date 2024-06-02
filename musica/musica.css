@@ -1,0 +1,96 @@
+header {
+    background-color: #602cda;
+  }
+  body{
+    background-image: url('fondonegro.avif'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+  }
+  
+  .title {
+    background-color: rgb(187, 169, 119);
+    text-align: center;
+    font-size: 2em;
+    margin: auto;
+    color: #333;
+    padding: 20px 0;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .menu-inferior {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #60a76a;
+    font-size: 1em;
+    padding: 5px 0;
+    margin-top: 0%;
+  }
+  
+  .izquierda {
+    background-color: rgb(54, 102, 104);
+    justify-content: flex;
+    align-items: flex-end;
+    width: 530px;
+    padding: 20px;
+  }
+  
+  .conPrincipal {
+    justify-content: space-between;
+    padding: 40px;
+    display: flex;
+  }
+  
+  .container {
+    font-family: "Times New Roman", Times, serif;
+  
+    width: 100%;
+    height: 100vh;
+    display: flex;
+  }
+  
+  .izquierda p {
+    font-size: large;
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  .derecha p {
+    font-size: large;
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  .container2 {
+    font-family: "Times New Roman", Times, serif;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+  }
+  
+  .derecha {
+    background-color: #6eb977;
+    justify-content: flex;
+    align-items: flex-end;
+    width: 620px;
+    padding: 20px;
+    
+  }
+  
+  .izquierda img,
+  .derecha img {
+    width: 50%;
+    height: 30%;
+  }
+  
+  footer {
+    background-color: #304737;
+    justify-content: space-around;
+    display: flex;
+    padding: 0;
+    position: fixed; 
+    bottom: 0;
+    width: 100%;
+    
+  }

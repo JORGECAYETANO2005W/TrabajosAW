@@ -1,0 +1,25 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #efa0a0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  fieldset {
+    border: 1px solid #539595;
+    padding: 15px;
+    background-color: orange;
+  }  
+legend{
+    background-color: orange;
+}
+  
